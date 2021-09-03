@@ -1,0 +1,15 @@
+body{
+    background-image: url(1-nature.jpg);
+    background-size: cover;
+}
+
+canvas{
+    border-width: 20px;
+    background-color: rgb(140, 202, 199);
+    border-style: groove;
+}
+
+h1{
+    color: cornsilk;
+    font-size: 35px;
+}
